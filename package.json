@@ -1,6 +1,10 @@
 {
   "name": "hackathon-helper",
   "version": "0.1.0",
+  "engine": {
+    "node": "7.4.0",
+    "npm": "4.0.5"
+  },
   "private": true,
   "devDependencies": {
     "react-scripts": "0.9.3"
